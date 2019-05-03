@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0071)file:///Users/Kelda/Desktop/Web%20Design%20/example_withoutviewport.htm -->
+<!-- saved from url=(0071)file:///Users/example_withoutviewport.htm -->
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
