@@ -9,7 +9,7 @@
   <b>To understand this example, you should open this page on a phone or a tablet.</b>
 </p>
 
-<img src="file:///Users/Kelda/Desktop/Web%20Design%20/example_withoutviewport_files/img_chania.jpg" alt="Chania" width="460" height="345">
+<img src="file:///example_withoutviewport_files/img_chania.jpg" alt="Chania" width="460" height="345">
 
 <p>
   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
